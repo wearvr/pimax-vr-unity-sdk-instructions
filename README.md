@@ -30,7 +30,7 @@ View the [full headset specifications](https://www.wearvr.com/developer-center/d
 
 ## Prerequisites
 
-You will require the following in order to develop a Pimax app:
+You will require the following in order to develop a Pimax application:
 
 A compatible version of Unity (based on Vive SDK requirements):
 > TODO: Consider confirming with Pimax to get more accurate specs
