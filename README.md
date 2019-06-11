@@ -42,6 +42,7 @@ A Pimax device:
 
 A Pimax SDK compatible with your device and Unity version:
 > TODO: Update the website to include the latest SDK
+
 <a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">Get the latest version here.</a>
 
 ## Overview
