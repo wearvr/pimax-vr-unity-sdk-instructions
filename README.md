@@ -40,7 +40,7 @@ A Pimax device:
 
 * These guides assume the developer is working with a Pimax 5k device. Other versions may have specific requirements, but should be similar to develop for unless noted otherwise.
 
-A Pimax asset package compatible with your device and Unity version:
+A Pimax SDK compatible with your device and Unity version:
 > TODO: Update the website to include the latest SDK
 <a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">Get the latest version here.</a>
 
