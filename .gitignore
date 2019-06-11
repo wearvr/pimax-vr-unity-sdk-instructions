@@ -1,0 +1,76 @@
+# UnityGenerated #
+##################
+
+**/[Tt]emp/
+!**/Assets/**/[Tt]emp/
+**/[Ll]ibrary/
+**/[Oo]bj/
+**/[Bb]uild/
+**/Builds/
+#**/!Library/ProjectSettings.asset
+
+ 
+# VS MD Generated #
+###################
+*.svd
+*.userprefs
+*.tmproj
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# OS Generated #
+################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.Trashes.*
+Icon?
+ehthumbs.db
+ehthumbs.db.*
+Thumbs.db
+Thumbs.db.*
+
+# Compiled source #
+###################
+*.com
+*.class
+*.o
+*.so
+ 
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+ 
+# Logs and databases #
+######################
+*.log
+TT\Assets\StreamingAssets\TT_db.sqlite
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# ==============
+# = 2D Toolkig =
+# ==============
+ 
+**/Assets/-tk2d
+**/Assets/-tk2d.*
+**/Assets/Resources/tk2d/*
+**/Assets/Resources/tk2d.*
