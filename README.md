@@ -34,7 +34,7 @@ You will require the following in order to develop a Pimax application:
 
 A compatible version of Unity (based on Vive SDK requirements):
 > TODO: Consider confirming with Pimax to get more accurate specs
-* Unity3D 5.4 series through to Unity 2018 are supported.
+* Unity3D 2017 series through to Unity 2018 are supported.
 
 A Pimax device:
 
