@@ -66,7 +66,7 @@ Device:
 
 * [Understanding PiTool](/docs/pitool-guide.md)
 
-There is an [example project](TestProject/Readme.md) to use as a reference as you follow this guide.
+There is an [example project](example/TestProject/Readme.md) to use as a reference as you follow this guide.
 
 ## Unable to port yourself?
 
