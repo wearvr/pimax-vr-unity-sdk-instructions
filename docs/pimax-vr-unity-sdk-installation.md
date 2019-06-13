@@ -4,6 +4,10 @@
 
 The Pimax Unity VR SDK comes as a .unitypackage that you can import into your project via the **Assets › Import Package › Custom Package...** menu option in Unity.
 
+<p align="center">
+  <img alt="Run the pvr unity setup wizard"  width="500px" src="assets/Import.png">
+</p>
+
 To access the .unitypackage Pimaxes SDK installer must be run, which by default will install the file to: **C:\Program Files\Pimax\Sdk\Unity_plugin**.
 
 <p align="center">
