@@ -25,7 +25,7 @@ Some variation exists. Oculus touch controllers contain additional face buttons,
 The pimax has some hardware inputs to provide system functionality.
 
 <p align="center">
-  <img alt="Pimax inputs" width="500px" src="docs/assets/Pimax8kNotes.png">
+  <img alt="Pimax inputs" width="500px" src="assets/Pimax8KNotes.png">
 </p>
 
 1.  Power button
