@@ -11,7 +11,7 @@ Pimax relies on an external power source, unlike many other VR headsets. Ensure 
 Ensure that SteamVR is enabled, with correctly set up sensors and that the HMD icon in steam shows a Pimax logo.
 
 <p align="center">
-  <img alt="Pimax Logo" width="500px" src="assets/PimaxSteamLogo.png">
+  <img alt="Pimax Logo" width="200px" src="assets/PimaxSteamLogo.png">
 </p>
 
 This issue can commonly occurs when Graphics card drivers are out of date. Pimax relies on relativly recent software, and it is worth updating your graphics card drivers and performing a full system restart to attempt to solve issues on first-time startup.
