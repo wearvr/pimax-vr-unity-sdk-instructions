@@ -15,7 +15,7 @@ Open this folder in Unity as a new project.
 Once in Unity, open the `Assets\Demo` scene.
 
 <p align="center">
-  <img alt="P1 Headset" width="500px" src="/docs/assets/ExampleProject.png">
+  <img alt="Pimax Headset" width="500px" src="/docs/assets/ExampleProject.png">
 </p>
 
 ## Overview
