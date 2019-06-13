@@ -23,7 +23,7 @@ If your computer can normally run VR experiences without issue, but struggles to
 From the PiTools window select **Settings > HMD > Rendering Quality**. Lowering this value will improve performance overall. Other settings within the same window can be used to adjust more specific issues with the display, such as screen tearing or latency delay.
 
 <p align="center">
-  <img alt="Pimax Logo" width="500px" src="/assets/RenderQuality.png">
+  <img alt="PiTools settings" width="500px" src="/assets/RenderQuality.png">
 </p>
 
 ### Next: Optimizing Pimax experiences
