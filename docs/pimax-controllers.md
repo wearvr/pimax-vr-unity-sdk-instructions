@@ -45,7 +45,46 @@ The pimax has some hardware inputs to provide system functionality.
 
 ## Using PVRInputEvent with Vive controllers
 
-Input with Pixmax is provided 
+In Unity, Input with Pixmax can be provided using the PVRInputEvent.cs Monobehaviour. It will report input events from any compatible VR input devices, which can then be interpreted by other classes.
+
+### Setting up PVRInputEvent.
+
+1.  Attach the PVRInputEvent.cs component script to an active object in the game scene.
+2.  For any classes that need to check input results inherit 'VR.Unity.IPVRInputEventTarget'.
+3.  In the same class impliment the methods 'OnAxisChange(PVRAxisEventData data)', 'OnButtonPress(PVRButtonEventData data)', 'OnButtonRelease(PVRButtonEventData data)', 'OnButtonTouch(PVRButtonEventData data)' and 'OnButtonUntouch(PVRButtonEventData data)'.
+
+Each PVR event data type contains some information about each input.
+
+#### PVRAxisEventData
+| Type | PVRAxisEventData |
+| :---: | :----: |
+| Variable Name | Description |
+| :---: | :----: |
+| hand | 0 or 1, left or right hand |
+| btn | Button in use |
+| x | x axis of the input |
+| y | y axis of the input |
+
+#### PVRButtonEventData
+| Type | PVRButtonEventData |
+| :---: | :----: |
+| Variable Name | Description |
+| :---: | :----: |
+| hand | 0 or 1, left or right hand |
+| btn | Button in use |
+
+The buttons availible through 'btn' correspond to supported inputs.
+
+#### Button types
+| PVR.pvrButton | Description |
+| :---: | :----: |
+| pvrButton_ApplicationMenu | Home button |
+| :---: | :----: |
+| pvrButton_System | System button |
+| pvrButton_Trigger | Trigger |
+| pvrButton_TouchPad | Touchpad |
+| pvrButton_Grip | Grip |
+| pvrButton_JoyStick | Thumbstick |
 
 ### Next: Building an executable
 
