@@ -2,7 +2,7 @@
 
 ### Build Settings
 
-In 'Edit->Project Settings->Quality' it is recommended to set 'Anti Aliasing' to 'Disabled'. This can reduce rendering costs significantly, and many VR projects benefit from a crisper look.
+In **'Edit->Project Settings->Quality'** it is recommended to set 'Anti Aliasing' to 'Disabled'. This can reduce rendering costs significantly, and many VR projects benefit from a crisper look.
 
 ### Extremely low FPS
 
