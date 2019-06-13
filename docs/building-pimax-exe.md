@@ -11,7 +11,7 @@ Change 'Architecture' to 'x86_64'.
 Press 'Build' to select a output folder.
 
 <p align="center">
-  <img alt="Build settings" width="500px" src="/assets/BuildSettings.png">
+  <img alt="Build settings" width="500px" src="/docs/assets/BuildSettings.png">
 </p>
 
 ## Playing your app
