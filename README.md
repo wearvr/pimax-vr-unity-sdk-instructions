@@ -38,7 +38,7 @@ A compatible version of Unity (based on Vive SDK requirements):
 
 A Pimax device:
 
-* These guides assume the developer is working with a Pimax 5k device. Other versions may have specific requirements, but should be similar to develop for unless noted otherwise.
+* These guides assume the developer is working with a Pimax 8k device. Other headsets may have specific requirements, but should be similar to develop for unless noted otherwise.
 
 A Pimax SDK compatible with your device and Unity version:
 > TODO: Update the website to include the latest SDK
