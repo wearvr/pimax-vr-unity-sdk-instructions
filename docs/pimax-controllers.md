@@ -37,7 +37,7 @@ The pimax has some hardware inputs to provide system functionality.
 7.  Microphone
 8.  3.5mm Headphone port
 
-* The light indicator has various meanings.
+\* The light indicator has various meanings.
 1.  Red: The headset is not plugged into the power adapter or interface.
 2.  Green: The headset is running as intended.
 3.  Purple: Parallel projection is enabled.
