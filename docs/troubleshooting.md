@@ -11,7 +11,7 @@ Pimax relies on an external power source, unlike many other VR headsets. Ensure 
 Ensure that SteamVR is enabled, with correctly set up sensors and that the HMD icon in steam shows a Pimax logo.
 
 <p align="center">
-  <img alt="Pimax Logo" width="500px" src="/assets/PimaxSteamLogo.png">
+  <img alt="Pimax Logo" width="500px" src="assets/PimaxSteamLogo.png">
 </p>
 
 This issue can commonly occurs when Graphics card drivers are out of date. Pimax relies on relativly recent software, and it is worth updating your graphics card drivers and performing a full system restart to attempt to solve issues on first-time startup.
@@ -23,7 +23,7 @@ If your computer can normally run VR experiences without issue, but struggles to
 From the PiTools window select **Settings > HMD > Rendering Quality**. Lowering this value will improve performance overall. Other settings within the same window can be used to adjust more specific issues with the display, such as screen tearing or latency delay.
 
 <p align="center">
-  <img alt="PiTools settings" width="500px" src="/assets/RenderQuality.png">
+  <img alt="PiTools settings" width="500px" src="assets/RenderQuality.png">
 </p>
 
 ### Next: Optimizing Pimax experiences
