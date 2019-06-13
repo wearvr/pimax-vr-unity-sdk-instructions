@@ -4,7 +4,7 @@
 
 Instructions for how to create new Unity virtual reality experiences for the Pimax (or port existing ones).
 
-These guides primarily target the Pimax 5k Headset for desktop applications and games, although other devices using the same SDK will generally be supported. For controllers and base stations this documentation and example projects will be working from the HTC vive and SteamVR.
+These guides primarily target the Pimax 8k Headset for desktop applications and games, although other devices using the same SDK will generally be supported. For controllers and base stations this documentation and example projects will be working from the HTC vive and SteamVR.
 
 <p align="center">
   <img alt="P1 Headset" width="500px" src="/docs/assets/Pimax 5K.svg">
@@ -34,7 +34,7 @@ You will require the following in order to develop a Pimax application:
 
 A compatible version of Unity (based on Vive SDK requirements):
 > TODO: Consider confirming with Pimax to get more accurate specs
-* Unity3D 2017 series through to Unity 2018 are supported.
+* Unity3D version 5.6 and above are supported.
 
 A Pimax device:
 
