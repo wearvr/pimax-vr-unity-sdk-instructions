@@ -4,7 +4,7 @@
 
 Instructions for how to create new Unity virtual reality experiences for the Pimax (or port existing ones).
 
-These guides primarily target the Pimax 8k Headset for desktop applications and games, although other devices using the same SDK will generally be supported. For controllers and base stations this documentation and example projects will be working from the HTC vive and SteamVR.
+These guides primarily target the Pimax 8k Headset for desktop applications and games, although other devices using the same SDK will generally be supported. For controllers and base stations this documentation and example projects will be working from the HTC Vive and SteamVR.
 
 <p align="center">
   <img alt="P1 Headset" width="500px" src="/docs/assets/Pimax 5K.svg">
@@ -14,7 +14,7 @@ These guides primarily target the Pimax 8k Headset for desktop applications and 
 
 #### Support & Revenue share
 
-WEARVR.com, The world's largest independent VR app store, has partnered with Pimax Technology to provide distribution alongside promotion, technical support and advice to help get your content into the marketplace - at no cost to you. You get the same high revenue share of 75%.
+WEARVR.com, the world's largest independent VR app store, has partnered with Pimax Technology to provide distribution alongside promotion, technical support and advice to help get your content into the marketplace - at no cost to you. You get the same high revenue share of 75%.
 
 | Region | Developer Revenue Share |
 | :---: | :----: |
@@ -36,10 +36,10 @@ A compatible version of Unity:
 * Unity3D version 5.6 and above are supported.
 
 A Pimax head mounted display:
-* These guides assume the developer is working with a Pimax 8k device. Other headsets may have specific requirements, but should be similar to develop for unless noted otherwise.
+* These guides assume the developer is working with a Pimax 5k/8k device. Other headsets may have specific requirements, but should be similar to develop for unless noted otherwise.
 
 A Pimax compatible base station and controller set:
-* Until PiMax release and distribute their own base stations and controllers, which are currently under development, using base stations and controllers designed for the HTC Vive are recommended. Currently the PiMax SDK is compatible with HTC Vive Controllers, and Versions 1 and 2 of their base stations.
+* Until PiMax release and distribute their own base stations and controllers, which are currently under development, using base stations and controllers designed for the HTC Vive are recommended. Currently the Pimax SDK is compatible with HTC Vive Controllers, and Versions 1 and 2 of their base stations.
 
 A Pimax SDK compatible with your device and Unity version:
 > TODO: Update the website to include the latest SDK
@@ -74,13 +74,13 @@ There is an [example project](example/TestProject/Readme.md) to use as a referen
 
 ## Unable to port yourself?
 
-Depending on availability and need, WEARVR may be able to provide additional support to help port your existing VR experiences to be compatible with Pimax, all the way up to completing the port for you and submitting it to the market.
+Depending on availability, WEARVR may be able to provide additional support in porting your existing VR experiences to be compatible with Pimax, all the way up to completing the port for you and submitting it to the market.
 
 Please get in touch on `devs@wearvr.com` to discuss your needs and how WEARVR may be able to help.
 
 ## Copyright & Trademarks
 
-These instructions and example project are maintained by WEARVR LLC, The largest independent virtual reality app store. WEARVR is interested in connecting VR content creators and consumers, globally. We love working with the VR community and would be delighted to hear from you at `devs@wearvr.com`.
+These instructions and example project are maintained by WEARVR LLC, the largest independent virtual reality app store. WEARVR is interested in connecting VR content creators and consumers, globally. We love working with the VR community and would be delighted to hear from you at `devs@wearvr.com`.
 
 You can find more information about WEARVR at www.wearvr.com
 
