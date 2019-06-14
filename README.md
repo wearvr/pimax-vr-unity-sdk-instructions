@@ -46,7 +46,7 @@ A Pimax SDK compatible with your device and Unity version:
 
 * <a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">Get the latest version here.</a>
 
-A PiTools installation
+A PiTools installation:
 * Installation instructions for PiTools are covered [here](/docs/pitool-guide.md).
 
 ## Overview
