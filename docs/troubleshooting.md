@@ -8,13 +8,13 @@ Pimax relies on an external power source, unlike many other VR headsets. Ensure 
 
 #### My Pimax device only shows a Pimax splash screen, without any head tracking.
 
-Ensure that SteamVR is enabled, with correctly set up sensors and that the HMD icon in steam shows a Pimax logo.
+Ensure that SteamVR is enabled, with correctly set up sensors and that the HMD icon in steam shows a Pimax logo. If this isn't the case it suggests that SteamVR has not been correctly set up.
 
 <p align="center">
   <img alt="Pimax Logo" width="200px" src="assets/PimaxSteamLogo.png">
 </p>
 
-This issue can commonly occur when Graphics card drivers are out of date. Pimax relies on relatively recent software, and it is worth updating your graphics card drivers and performing a full system restart to attempt to solve issues on first-time startup.
+This issue can also commonly occur when Graphics card drivers are out of date. Pimax relies on relatively recent software, and it is worth updating your graphics card drivers and performing a full system restart to attempt to solve issues on first-time startup.
 
 #### My Pimax device is very demanding on my computers hardware, even when running a simple VR experience.
 
