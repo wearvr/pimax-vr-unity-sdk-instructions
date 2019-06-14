@@ -101,7 +101,3 @@ Titles in this screen can be sorted and searched. They can also be launched from
 The Help screen contains contact details for PiMax, as well as a reference to it's privacy Policy (In Chinese). 
 
 This screen also allows the user to review Export Logs, and to attempt a diagnostic of system hardware. The Diagnostic tool can be uses to detect required updates to USB drivers, system versions, drivers and Steam.
-
-### Next: Setting up Pimax for use
-
-See [Setting up Pimax for use](/docs/pimax-setup.md)
