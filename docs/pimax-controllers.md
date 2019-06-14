@@ -16,7 +16,7 @@ In the meantime, and as a general good practice guide, it is recommended that VR
 
 As standard most desktop VR platforms share some similarities in their hardware. They use two 6-dof (degrees of freedom) controllers, and a single 6-dof position for the users head. 
 
-Controllers are usually symmetrical, in that they contain equal numbers of inputs for each hand. This includes a trigger, a touchpad or a thumbstick, a button that is activated when the thumbstick or touchpad is pressed, a grip button, and a system button (home or settings). Buttons and triggers usually sensitive enough to detect when they're touched as well as pressed.
+Controllers are usually symmetrical, in that they contain equal numbers of inputs for each hand. This includes a trigger, a touchpad or a thumbstick, a button that is activated when the thumbstick or touchpad is pressed, a grip button, and a system button (home or settings). Buttons and triggers are usually sensitive enough to detect when they're touched as well when they are pressed. Triggers and Grip keys are often able to detect partial button presses.
 
 Some variation exists. Oculus touch controllers contain additional face buttons, and Windows Mixed Reality controllers contain both thumbsticks and touchpads. Pimax does not always support unique features like these. The SDK seems to be focused around compatibility with the HTC Vive, which should be kept in mind when developing an input scheme for your own projects.
 
