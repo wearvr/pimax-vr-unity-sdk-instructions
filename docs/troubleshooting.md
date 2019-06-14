@@ -14,7 +14,7 @@ Ensure that SteamVR is enabled, with correctly set up sensors and that the HMD i
   <img alt="Pimax Logo" width="200px" src="assets/PimaxSteamLogo.png">
 </p>
 
-This issue can commonly occurs when Graphics card drivers are out of date. Pimax relies on relatively recent software, and it is worth updating your graphics card drivers and performing a full system restart to attempt to solve issues on first-time startup.
+This issue can commonly occur when Graphics card drivers are out of date. Pimax relies on relatively recent software, and it is worth updating your graphics card drivers and performing a full system restart to attempt to solve issues on first-time startup.
 
 #### My Pimax device is very demanding on my computers hardware, even when running a simple VR experience.
 
