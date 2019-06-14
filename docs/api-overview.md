@@ -176,7 +176,13 @@ Scriping interfaces:
 | Returns | 0.0f to 1.0f if a button is only on or off. Single axis inputs like triggers and grips return 0.0f to 1.0f along the X  input axis. Two axis inputs like thumbsticks and touchpads return along X and Y |
 | Call Method | PVR.Unity.PVRSession.instance.GetButtonAxis(int, PVR.pvrButton); |
 
-
+#### isDeviceConnected()
+| Name | public bool isDeviceConnected ( pvrTrackedDeviceType device ) |
+| :---: | :----: |
+| Functionality | Test specified device against connected devices |
+| Parameters | device: device type |
+| Returns | Is the specified device connected |
+| Call Method | PVR.Unity.PVRSession.instance.isDeviceConnected(pvrTrackedDeviceType); |
 
 ### Next: Understanding PiTool
 
