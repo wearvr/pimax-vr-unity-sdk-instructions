@@ -28,13 +28,15 @@ Here are the specifications on current VR headsets, for quick reference:
 | Vive Pro | 110° x 110° |
 | Windows Mixed Reality | 95° x 90° |
 
-## Alternatively, use the Vive SDK.
+## Alternatively, use the Vive SDK, VivePort or OpenVR.
 
 As Pimax is compatible with the Vive by default it is also a completely valid strategy to develop using Viveport or the SteamVR SDK. For some developers who have games already compatible with the Vive it will be much more appealing to make minor adjustments to make their game 'Pimax friendly' as opposed to developing for Pimax exclusively.
 
 One of the largest concerns is with FOV (Felid of view). As the Pimax has wider screens than the vive it is common for visual issues to occur in the users peripheral vision if a VR experience has not been correctly set up for Pimax. Objects may appear to pop in and out of vision due to frustum culling, or UI elements such as 'fade out boxes' or vision overlays might not stretch to the edges of a users vision correctly.
 
 Additionally as the Pimax has a larger screen in comparison to the Vive, and has some overhead in rendering to it's two screens and running PiTool, it is common for applications to run slower on PiMax than on other headsets. This can be mitigated with more powerful hardware, or optimization, but a game that has already shown some difficulty with performance will likely require further optimization to work seamlessly with PiMax.
+
+If you ar developing a Pimax experience using a Vive-only SDK you may need to enable *'Compatible With vive Only Game'* under PiTools *'Settings > Brainwarp > Compatible With vive Only Game'* menu.
 
 ### Next: Troubleshooting
 
