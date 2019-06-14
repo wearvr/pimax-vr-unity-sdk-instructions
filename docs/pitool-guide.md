@@ -60,7 +60,7 @@ HMD (Head Mounted Display) settings allows the user to change settings relating 
 
 This section also allows the user to alter the visual properties of PiMax, and allows for changes in contrast and brightness on a per-eye basis for each of the PiMax screens. IPD (interpupillary distance) can also be set here, which allows for additional control over screen-to-eye positions when used with the hardware's lens adjustment dial.
 
-Finally, the Headset or the PiMax interface can be completely rest using the 'Reboot HMD' or 'Restart Service' buttons.
+Finally, the Headset or the PiMax interface can be completely reset using the 'Reboot HMD' or 'Restart Service' buttons.
 
 Using the Restore button in the lower right hand corner reverts PiTool back to it's default settings.
 
