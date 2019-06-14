@@ -42,7 +42,7 @@ The settings screen is divided into 3 sub-sections. General, HMD, and Brainwarp.
 
 General settings allows the user to check PiTool for updates, change the active Language, and change the default behavior of the PiTools window. This section is relevant to the operation of PiMax and PiTools as a whole.
 
-Using the Restore button in the lower right hand corner revert PiTool back to it's default settings.
+Using the Restore button in the lower right hand corner reverts PiTool back to it's default settings.
 
 <p align="center">
   <img alt="Pimax inputs" width="500px" src="assets/PiToolUI3.png">
@@ -62,7 +62,7 @@ This section also allows the user to alter the visual properties of PiMax, and a
 
 Finally, the Headset or the PiMax interface can be completely rest using the 'Reboot HMD' or 'Restart Service' buttons.
 
-Using the Restore button in the lower right hand corner revert PiTool back to it's default settings.
+Using the Restore button in the lower right hand corner reverts PiTool back to it's default settings.
 
 <p align="center">
   <img alt="Pimax inputs" width="500px" src="assets/PiToolUI5.png">
