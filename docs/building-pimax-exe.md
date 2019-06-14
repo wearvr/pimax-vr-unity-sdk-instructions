@@ -18,7 +18,7 @@ Press 'Build' to select a output folder.
 
 In the output folder several files will be generated. Including '-project-name-.exe', 'UnityCrashHandler64.exe', 'UnityPlayer.dll' and 'WinPixEventRuntime.dll'. All of these files should be kept together if moving your application from your build folder to another directory.
 
-Opening the .exe file with the same name as your project, while the Pimax device is set up and ready to use, should result in the program being correctly transmitted to the headset.
+Opening the .exe file with the same name as your project, while the Pimax device is set up and ready to use, should result in the program being correctly viewable on the headset.
 
 ### Next: Pimax sample scenes
 
