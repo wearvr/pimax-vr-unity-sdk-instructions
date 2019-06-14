@@ -65,7 +65,6 @@ Optional:
 Device:
 
 * [Understanding PiTool](/docs/pitool-guide.md)
-* [Setting up Pimax for use](/docs/pimax-setup.md)
 
 There is an [example project](example/TestProject/Readme.md) to use as a reference as you follow this guide.
 
