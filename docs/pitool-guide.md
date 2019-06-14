@@ -8,7 +8,7 @@ PiTool is the Pimax headsets companion application. It must be running if the Pi
 
 PiTool can be installed from the PiMax website, [Here.](https://pimaxvr.com/pages/pitool)
 
-As well as installing PiTool is highly recommended that your NVIDIA Graphics Card drivers be updated to their latest available version. If an update was applied you should also perform a full restart on your system before attempting to use the PiMax, to allow the changes to take effect.
+As well as installing PiTool it is highly recommended that your NVIDIA Graphics Card drivers be updated to their latest available version. If an update was applied you should also perform a full restart on your system before attempting to use the PiMax, to allow the changes to take effect.
 
 From the PiMax website you should be able to download an installer for PiTools named **'PiToolSetup_-version number-.exe'**. Once opened follow the installation instructions, including selecting a Language and selecting whether to create a desktop shortcut. After a brief installation procedure the installer will close, and allow you to open PiTools for use.
 
