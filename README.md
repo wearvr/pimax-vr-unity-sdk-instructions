@@ -35,9 +35,11 @@ You will require the following in order to develop a Pimax application:
 A compatible version of Unity:
 * Unity3D version 5.6 and above are supported.
 
-A Pimax device:
-
+A Pimax head mounted display:
 * These guides assume the developer is working with a Pimax 8k device. Other headsets may have specific requirements, but should be similar to develop for unless noted otherwise.
+
+A Pimax compatible base station and controller set:
+* Until PiMax release and distribute their own base stations and controllers, which are currently under development, using base stations and controllers designed for the HTC Vive are recommended. Currently the PiMax SDK is compatible with HTC Vive Controllers, and Versions 1 and 2 of their base stations.
 
 A Pimax SDK compatible with your device and Unity version:
 > TODO: Update the website to include the latest SDK
