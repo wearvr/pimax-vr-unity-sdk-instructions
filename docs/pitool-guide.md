@@ -22,7 +22,7 @@ If you allowed the installer to do so, a shortcut to **PiTool** will appear on y
 
 Once PiTool is installed and launched you will be presented with several screens. Each of which is briefly described here.
 
-#### Status
+### Status
 
 <p align="center">
   <img alt="Pimax inputs" width="500px" src="assets/PiToolUI1.png">
@@ -32,7 +32,7 @@ The main status screen shows the connection status of your Pimax headset, and of
 
 From here PiTool can launch SteamVR, pair controllers, and perform room scale setup. If the room and controllers have already been set up via SteamVR these steps are unnecessary.
 
-#### Settings
+### Settings
 
 <p align="center">
   <img alt="Pimax inputs" width="500px" src="assets/PiToolUI2.png">
@@ -82,7 +82,7 @@ Parallel projections should be enabled or disabled on a per-game basis. This can
 
 'Refresh Rate' is set to PiMax's maximum of 80hz by default, however this can be lowered to reduce screen-tearing if necessary.
 
-#### My Games
+### My Games
 
 <p align="center">
   <img alt="Pimax inputs" width="500px" src="assets/PiToolUI6.png">
@@ -92,7 +92,7 @@ The 'My Games' screen shows a library of PiMax compatible applications. This lis
 
 Titles in this screen can be sorted and searched. They can also be launched from this screen.
 
-#### Help
+### Help
 
 <p align="center">
   <img alt="Pimax inputs" width="500px" src="assets/PiToolUI7.png">
