@@ -38,7 +38,7 @@ One of the largest concerns is with FOV (Felid of view). As the Pimax has wider 
 
 Additionally as the Pimax has a larger screen in comparison to the Vive, and has some overhead in rendering to it's two screens and running PiTool, it is common for applications to run slower on PiMax than on other headsets. This can be mitigated with more powerful hardware, or optimization, but a game that has already shown some difficulty with performance will likely require further optimization to work seamlessly with PiMax.
 
-If you are developing a Pimax experience using a Vive-only SDK you may need to enable **'Compatible With vive Only Game'** under PiTools **'Settings > Brainwarp > Compatible With vive Only Game'** menu.
+If you are developing a Pimax experience using a Vive-only SDK you may need to enable **'Compatible With Vive Only Game'** under PiTools **'Settings > Brainwarp > Compatible With vive Only Game'** menu.
 
 ### Next: Troubleshooting
 
