@@ -44,7 +44,7 @@ A Pimax compatible base station and controller set:
 A Pimax SDK compatible with your device and Unity version:
 > TODO: Update the website to include the latest SDK
 
-<a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">Get the latest version here.</a>
+* <a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">Get the latest version here.</a>
 
 A PiTools installation
 * Installation instructions for PiTools are covered [here](/docs/pitool-guide.md).
