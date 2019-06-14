@@ -4,12 +4,11 @@
 
 Scriping interfaces:
 * PVRSession.cs 
-* PVRPoseTracking.cs 
-* PVREyeOffset.cs
-* PVRSurface.cs 
 * PVRInputEvent.cs 
 
 ## (1) PVRSession.cs
+
+Used to access the connection with PVR runtime. You only need to add one in each scene and you can use the PVRSession.prefab to add it.
 
 #### instance
 | Name | public static PVRSession instance |
@@ -17,6 +16,12 @@ Scriping interfaces:
 | Purpose | Static reference to PVRSession instance. Should be used to access all PVRSession data. |
 | Returns | PVRSession instance |
 | Call Method | PVR.Unity.PVRSession.instance; |
+
+#### TrackingOrig
+| Name | public enum TrackingOrig |
+| :---: | :----: |
+| Values | eye, floor |
+| Call Method | PVR.Unity.PVRSession.instance.TrackingOrig; |
 
 #### trackingOrig
 | Name | public TrackingOrig trackingOrig |
@@ -183,6 +188,21 @@ Scriping interfaces:
 | Parameters | device: device type |
 | Returns | Is the specified device connected |
 | Call Method | PVR.Unity.PVRSession.instance.isDeviceConnected(pvrTrackedDeviceType); |
+
+## (2) PVRInputEvent.cs
+
+Used to access the state of input events.
+
+#### IPVRInputEventTarget
+| Name | public interface IPVRInputEventTarget : IEventSystemHandler |
+| :---: | :----: |
+| Inherited function | Description |
+| :---: | :----: |
+| void OnButtonPress (PVRButtonEventData data) | Event called when button pressed |
+| void OnButtonRelease (PVRButtonEventData data) | Event called when button released |
+| void OnButtonTouch (PVRButtonEventData data) | Event called when button touched |
+| void OnButtonUntouch (PVRButtonEventData data) | Event called when button untouched |
+| void OnAxisChange (PVRButtonEventData data) | Event called when axis updated |
 
 ### Next: Understanding PiTool
 
