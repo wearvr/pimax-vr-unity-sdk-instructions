@@ -6,6 +6,8 @@ Pimax is an unique platform to develop for, in comparison to other desktop VR SD
 
 Pimax is dependent on PVRInputEvent.cs for it's Input, [which is covered here](/docs/pimax-controllers.md). This system presents some issues, as replacing the input hooks for a completed project can be a large task. In general it is recommended that developers create their own Input interface to keep track of button states using the Pimax system, as well as parse out other useful information such as testing touchpad swipe directions or detecting long button presses.
 
+As well as using PVRInputEvent, it may be possible to query PVRSession for input states. This could be a useful alternative to those preffering not wanting to use event-driven input. See the [API section for more details](/docs/api-overview.md).
+
 Games ported from the Oculus may have difficulty as 'Near press' input results, degrees of trigger and grip input, and dedicated face buttons, all are not present on the Vive or Pimax. Most developers consider using touchpad click locations to create virtual buttons as an acceptable alternative to physical buttons.
 
 ### Build settings
