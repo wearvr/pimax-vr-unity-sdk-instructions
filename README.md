@@ -46,6 +46,9 @@ A Pimax SDK compatible with your device and Unity version:
 
 <a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">Get the latest version here.</a>
 
+A PiTools installation
+* Installation instructions for PiTools are covered [here](/docs/pitool-guide.md).
+
 ## Overview
 
 You can easily create a new Unity VR app, but the fastest way to get up and running on a Pimax device is to convert an existing Oculus, Vive, Windows Mixed Reality or Mobile VR experience.
