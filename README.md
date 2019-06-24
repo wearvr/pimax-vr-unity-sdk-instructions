@@ -26,8 +26,6 @@ WEARVR offers the largest independent marketplace for VR content, and one of the
 
 View the [full headset specifications](https://www.wearvr.com/developer-center/devices/pimax).
 
-> TODO: Website needs to be updated
-
 ## Prerequisites
 
 You will require the following in order to develop a Pimax application:
@@ -42,7 +40,6 @@ A Pimax compatible base station and controller set:
 * Until PiMax release and distribute their own base stations and controllers, which are currently under development, using base stations and controllers designed for the HTC Vive are recommended. Currently the Pimax SDK is compatible with HTC Vive Controllers, and Versions 1 and 2 of their base stations.
 
 A Pimax SDK compatible with your device and Unity version:
-> TODO: Update the website to include the latest SDK
 
 * <a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">Get the latest version here.</a>
 
