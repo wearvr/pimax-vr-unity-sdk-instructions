@@ -16,8 +16,6 @@ To access the .unitypackage Pimaxes SDK installer must be run, which by default 
 
 If the package has been installed and imported correctly you should see a folder named 'PVRUnity' appear in your project assets.
 
-> TODO: Download link should be updated to allow SDK access through site.
-
 You can <a href="https://users.wearvr.com/developers/devices/pimax/resources/vr-unity-package" target="_blank">download the Pimax Unity SDK</a> from WEARVR. You will be asked to create or sign in to your developer account.
 
 ## Setting up the scene
