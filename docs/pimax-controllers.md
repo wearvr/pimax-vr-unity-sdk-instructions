@@ -58,8 +58,7 @@ Each PVR event data type contains some information about each input.
 #### PVRAxisEventData
 | Type | PVRAxisEventData |
 | :---: | :----: |
-| Variable Name | Description |
-| :---: | :----: |
+| __Variable Name__ | __Description__ |
 | hand | 0 or 1, left or right hand |
 | btn | Button in use |
 | x | x axis of the input |
@@ -68,8 +67,7 @@ Each PVR event data type contains some information about each input.
 #### PVRButtonEventData
 | Type | PVRButtonEventData |
 | :---: | :----: |
-| Variable Name | Description |
-| :---: | :----: |
+| __Variable Name__ | __Description__ |
 | hand | 0 or 1, left or right hand |
 | btn | Button in use |
 
@@ -79,7 +77,6 @@ The buttons available through 'btn' correspond to supported inputs.
 | PVR.pvrButton | Description |
 | :---: | :----: |
 | pvrButton_ApplicationMenu | Home button |
-| :---: | :----: |
 | pvrButton_System | System button |
 | pvrButton_Trigger | Trigger |
 | pvrButton_TouchPad | Touchpad |
